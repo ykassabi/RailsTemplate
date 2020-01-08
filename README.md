@@ -1,4 +1,10 @@
+
+
+yarn add react-router-dom bootstrap jquery popper.js
+rails g controller Homepage index
+root 'homepage#index' - to routes
 # README
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
